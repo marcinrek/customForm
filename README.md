@@ -2,8 +2,6 @@
 
 Simple script that enables you to toggle form elements visibility based on provided input.
 
-More details [here](https://marcinrek.pl/customform).
-
 ## Installation
 
 Setup is really simple. You just need to define the rules and embed the script. 
